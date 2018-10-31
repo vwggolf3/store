@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "gateway",
+    "gitCompany": "",
+    "baseName": "store",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "NmIxNThiMzQ3N2NhYWU4MzA5OTI3OWE0OWQwZGQ0MDFhZDNiNGJmMmE1NzM5NTNkY2Q5YzkzZGZhMzIyZjJjY2JlYzA3MzVmNzA5NWNlMTRhNWIyMDcyMDI3ZGRjMjcyOWI1NDcwYzBiNzBhMWU3YzA2NDY0NGI5YmEyYjcwMDQ="
+  },
+  "git-provider": "GitHub",
+  "git-company": "vwggolf3",
+  "repository-name": "store"
+}
